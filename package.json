@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "discord.js-v11": "^12.1.1",
+    "fs": "^0.0.1-security"
+  }
+}

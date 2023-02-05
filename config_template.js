@@ -1,0 +1,2 @@
+exports.TOKEN = ''; //Put your token inside the quotes
+exports.LISTLINKS = ['discord.gg'] //Add as many links you want to catch and ban (separator : ",") Example : exports.LISTLINKS = ['discord.gg','youtube.com','...']
